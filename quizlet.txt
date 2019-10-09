@@ -1,0 +1,3840 @@
+T 
+#END_TERM#
+There is a tremendous variety of products, from single-chip microcomputers costing a few dollars to supercomputers costing tens of millions of dollars that can rightly claim the name "computer".
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The variety of computer products is exhibited only in cost.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Computer organization refers to attributes of a system visible to the programmer.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Changes in computer technology are finally slowing down.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The textbook for this course is about the structure and function of computers.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The number of bits used to represent various data types is an example of an architectural attribute.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Interfaces between the computer and peripherals is an example of an organizational attribute.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Historically the distinction between architecture and organization has not been an important one.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A particular architecture may span many years and encompass a number of different computer models, its organization changing with changing technology.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A microcomputer architecture and organization relationship is not very close.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Changes in technology not only influence organization but also result in the introduction of more powerful and more complex architectures.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The hierarchical nature of complex systems is essential to both their design and their description.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Both the structure and functioning of a computer are, in essence, simple.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A computer must be able to process, store, move, and control data.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+When data are moved over longer distances, to or from a remote device, the process is known as data transport.
+(T/F)
+#END_CARD#
+C 
+#END_TERM#
+Computer technology is changing at a __________ pace.
+A. Slow
+B. Slow to medium
+C. Rapid
+D. Non-existent
+#END_CARD#
+D 
+#END_TERM#
+Computer _________ refers to those attributes that have a direct impact on the logical execution of a program.
+A. Organization
+B. Specifics
+C. Design
+D. Architecture
+#END_CARD#
+A 
+#END_TERM#
+Architectural attributes include __________ .
+A. I/O mechanisms
+B. Control signals
+C. Interfaces
+D. Memory technology used
+#END_CARD#
+B 
+#END_TERM#
+_________ attributes include hardware details transparent to the programmer.
+A. Interface
+B. Organizational
+C. Memory
+D. Architectural
+#END_CARD#
+A 
+#END_TERM#
+It is a(n) _________ design issue whether a computer will have a multiply instruction.
+A. Architectural
+B. Memory
+C. Elementary
+D. Organizational
+#END_CARD#
+D 
+#END_TERM#
+It is a(n) _________ issue whether the multiply instruction will be implemented by a special multiply unit or by a mechanism that makes repeated use of the add unit of the system.
+A. Architectural
+B. Memory
+C. Mechanical
+D. Organizational
+#END_CARD#
+B 
+#END_TERM#
+A __________ system is a set of interrelated subsystems.
+A. Secondary
+B. Hierarchical
+C. Complex
+D. Functional
+#END_CARD#
+C 
+#END_TERM#
+An I/O device is referred to as a __________.
+A. CPU
+B. Control device
+C. Peripheral
+D. Register
+#END_CARD#
+A 
+#END_TERM#
+When data are moved over longer distances, to or from a remote device, the process is known as __________.
+A. Data communications
+B. Registering
+C. Structuring
+D. Data transport
+#END_CARD#
+C 
+#END_TERM#
+The _________ stores data.
+A. System bus
+B. I/O
+C. Main memory
+D. Control unit
+#END_CARD#
+B 
+#END_TERM#
+The __________ moves data between the computer and its external environment.
+A. Data transport
+B. I/O
+C. Register
+D. CPU interconnection
+#END_CARD#
+B 
+#END_TERM#
+A common example of system interconnection is by means of a __________.
+A. Register
+B. System bus
+C. Data transport
+D. Control device
+#END_CARD#
+A 
+#END_TERM#
+A _________ is a mechanism that provides for communication among CPU, main memory, and I/O.
+A. System interconnection
+B. CPU interconnection
+C. Peripheral
+D. Processor
+#END_CARD#
+D 
+#END_TERM#
+_________ provide storage internal to the CPU.
+A. Control units
+B. ALUs
+C. Main memory
+D. Registers
+#END_CARD#
+C 
+#END_TERM#
+The __________ performs the computer's data processing functions.
+A. Register
+B. CPU interconnection
+C. ALU
+D. System bus
+#END_CARD#
+F 
+#END_TERM#
+The world's first general-purpose electronic digital computer was designed and constructed at The Ohio State University.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+John Mauchly and John Eckert designed the ENIAC.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The major drawback of the EDVAC was that it had to be programmed manually by setting switches and plugging and unplugging cables.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The IAS is the prototype of all subsequent general-purpose computers.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The IAS operates by repetitively performing an instruction cycle.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Backward compatible means that the programs written for the older machines can be executed on the new machine.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A vacuum tube is a solid-state device made from silicon.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Computers are classified into generations based on the fundamental hardware technology employed.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+System software was introduced in the third generation of computers.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A wafer is made of silicon and is broken up into chips which consists of many gates and/or memory cells plus a number of input and output attachment points.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+IBM's System/360 was the industry's first planned family of computers.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Intel's 4004 was the first chip to contain all of the components of a CPU on a single chip.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Designers wrestle with the challenge of balancing processor performance with that of main memory and other computer components.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The Intel x86 evolved from RISC design principles and is used in embedded systems.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A common measure of performance for a processor is the rate at which instructions are executed, expressed as billions of instructions per seconds (BIPS).
+(T/F)
+#END_CARD#
+C 
+#END_TERM#
+The _________ was the world's first general-purpose electronic digital computer.
+A. UNIVAC
+B. MARK IV
+C. ENIAC
+D. Hollerith's Counting Machine
+#END_CARD#
+D 
+#END_TERM#
+The Electronic Numerical Integrator and Computer project was a response to U.S. needs during _________.
+A. The Civil War
+B. The French-American War
+C. World War I
+D. World War II
+#END_CARD#
+A 
+#END_TERM#
+The ENIAC used __________.
+A. Vacuum tubes
+B. Integrated circuits
+C. IAS
+D. Transistors
+#END_CARD#
+A 
+#END_TERM#
+The ENIAC is an example of a _________ generation computer.
+A. First
+B. Second
+C. Third
+D. Fourth
+#END_CARD#
+B 
+#END_TERM#
+The __________ interprets the instructions in memory and causes them to be executed.
+A. Main memory
+B. Control unit
+C. I/O
+D. Arithmetic and logic unit
+#END_CARD#
+D 
+#END_TERM#
+The memory of the IAS consists of 1000 storage locations called __________.
+A. Opcodes
+B. Wafers
+C. VLSIs
+D. Words
+#END_CARD#
+C 
+#END_TERM#
+The __________ contains the 8-bit opcode instruction being executed.
+A. Memory buffer register
+B. Instruction buffer register
+C. Instruction register
+D. Memory address register
+#END_CARD#
+B 
+#END_TERM#
+During the _________ the opcode of the next instruction is loaded into the IR and the address portion is loaded into the MAR.
+A. Execute cycle
+B. Fetch cycle
+C. Instruction cycle
+D. Clock cycle
+#END_CARD#
+B 
+#END_TERM#
+Second generation computers used __________.
+A. Integrated circuits
+B. Transistors
+C. Vacuum tubes
+D. Large-scale integration
+#END_CARD#
+A 
+#END_TERM#
+The __________ defines the third generation of computers.
+A. Integrated circuit
+B. Vacuum tube
+C. Transistor
+D. VLSI
+#END_CARD#
+A 
+#END_TERM#
+The use of multiple processors on the same chip is referred to as __________ and provides the potential to increase performance without increasing the clock rate.
+A. Multicore
+B. GPU
+C. Data channels
+D. MPC
+#END_CARD#
+D 
+#END_TERM#
+With the __________, Intel introduced the use of superscalar techniques that allow multiple instructions to execute in parallel.
+A. Core
+B. 8080
+C. 80486
+D. Pentium
+#END_CARD#
+B 
+#END_TERM#
+The __________ measures the ability of a computer to complete a single task.
+A. Clock speed
+B. Speed metric
+C. Execute cycle
+D. Cycle time
+#END_CARD#
+D 
+#END_TERM#
+ARM processors are designed to meet the needs of _________.
+A. Embedded real-time systems
+B. Application platforms
+C. Secure applications
+D. All of the above
+#END_CARD#
+A 
+#END_TERM#
+One increment, or pulse, of the system clock is referred to as a _________.
+A. Clock tick
+B. Cycle time
+C. Clock rate
+D. Cycle speed
+#END_CARD#
+T 
+#END_TERM#
+At a top level, a computer consists of CPU, memory, and I/O components.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The basic function of a computer is to execute programs.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Program execution consists of repeating the process of instruction fetch and instruction execution.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Interrupts do not improve processing efficiency.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+An I/O module cannot exchange data directly with the processor.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A key characteristic of a bus is that it is not a shared transmission medium.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Computer systems contain a number of different buses that provide pathways between components at various levels of the computer system hierarchy.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+In general, the more devices attached to the bus, the greater the bus length and hence the greater the propagation delay.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+It is not possible to connect I/O controllers directly onto the system bus.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The method of using the same lines for multiple purposes is known as time multiplexing.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Timing refers to the way in which events are coordinated on the bus.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+With asynchronous timing the occurrence of events on the bus is determined by a clock.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Because all devices on a synchronous bus are tied to a fixed clock rate, the system cannot take advantage of advances in device performance.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The unit of transfer at the link layer is a phit and the unit transfer at the physical layer is a flit.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A key requirement for PCIe is high capacity to support the needs of higher data rate I/O devices such as Gigabit Ethernet.
+(T/F)
+#END_CARD#
+B 
+#END_TERM#
+Virtually all contemporary computer designs are based on concepts developed by __________ at the Institute for Advanced Studies, Princeton.
+A. John Maulchy
+B. John von Neumann
+C. Herman Hollerith
+D. John Eckert
+#END_CARD#
+D 
+#END_TERM#
+The von Neumann architecture is based on which concept?
+A. Data and instructions are stored in a single read-write memory
+B. The contents of this memory are addressable by location
+C. Execution occurs in a sequential fashion
+D. All of the above
+#END_CARD#
+A 
+#END_TERM#
+A sequence of codes or instructions is called __________.
+A. Software
+B. Memory
+C. An interconnect
+D. A register
+#END_CARD#
+C 
+#END_TERM#
+The processing required for a single instruction is called a(n) __________ cycle.
+A. Execute
+B. Fetch
+C. Instruction
+D. Packet
+#END_CARD#
+B 
+#END_TERM#
+A(n) _________ is generated by a failure such as power failure or memory parity error.
+A. I/O interrupt
+B. Hardware failure interrupt
+C. Timer interrupt
+D. Program interrupt
+#END_CARD#
+C 
+#END_TERM#
+A(n) _________ is generated by some condition that occurs as a result of an instruction execution.
+A. Timer interrupt
+B. I/O interrupt
+C. Program interrupt
+D. Hardware failure interrupt
+#END_CARD#
+D 
+#END_TERM#
+The interconnection structure must support which transfer?
+A. Memory to processor
+B. Processor to memory
+C. I/O to or from memory
+D. All of the above
+#END_CARD#
+A 
+#END_TERM#
+A bus that connects major computer components (processor, memory, I/O) is called a __________.
+A. System bus
+B. Address bus
+C. Data bus
+D. Control bus
+#END_CARD#
+D 
+#END_TERM#
+The __________ are used to designate the source or destination of the data on the data bus.
+A. System lines
+B. Data lines
+C. Control lines
+D. Address lines
+#END_CARD#
+C 
+#END_TERM#
+The data lines provide a path for moving data among system modules and are collectively called the _________.
+A. Control bus
+B. Address bus
+C. Data bus
+D. System bus
+#END_CARD#
+B 
+#END_TERM#
+A __________ is the high-level set of rules for exchanging packets of data between devices.
+A. Bus
+B. Protocol
+C. Packet
+D. QPI
+#END_CARD#
+A 
+#END_TERM#
+Each data path consists of a pair of wires (referred to as a __________) that transmits data one bit at a time.
+A. Lane
+B. Path
+C. Line
+D. Bus
+#END_CARD#
+A 
+#END_TERM#
+The _________ receives read and write requests from the software above the TL and creates request packets for transmission to a destination via the link layer.
+A. Transaction layer
+B. Root layer
+C. Configuration layer
+D. Transport layer
+#END_CARD#
+D 
+#END_TERM#
+The TL supports which of the following address spaces?
+A. Memory
+B. I/O
+C. Message
+D. All of the above
+#END_CARD#
+C 
+#END_TERM#
+The QPI _________ layer is used to determine the course that a packet will traverse across the available system interconnects.
+A. Link
+B. Protocol
+C. Routing
+D. Physical
+#END_CARD#
+T 
+#END_TERM#
+No single technology is optimal in satisfying the memory requirements for a computer system.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A typical computer system is equipped with a hierarchy of memory subsystems, some internal to the system and some external.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+External memory is often equated with main memory.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The processor requires its own local memory.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Cache is not a form of internal memory.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The unit of transfer must equal a word or an addressable unit.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Both sequential access and direct access involve a shared read-write mechanism.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+In a volatile memory, information decays naturally or is lost when electrical power is switched off.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+To achieve greatest performance the memory must be able to keep up with the processor.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Secondary memory is used to store program and data files and is usually visible to the programmer only in terms of individual bytes or words.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The L1 cache is slower than the L3 cache.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+With write back updates are made only in the cache.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+It has become possible to have a cache on the same chip as the processor.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+All of the Pentium processors include two on-chip L1 caches, one for data and one for instructions.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Cache design for HPC is the same as that for other hardware platforms and applications.
+(T/F)
+#END_CARD#
+A 
+#END_TERM#
+__________ refers to whether memory is internal or external to the computer.
+A. Location
+B. Access
+C. Hierarchy
+D. Tag
+#END_CARD#
+C 
+#END_TERM#
+Internal memory capacity is typically expressed in terms of _________.
+A. Hertz
+B. Nanos
+C. Bytes
+D. LOR
+#END_CARD#
+B 
+#END_TERM#
+For internal memory, the __________ is equal to the number of electrical lines into and out of the memory module.
+A. Access time
+B. Unit of transfer
+C. Capacity
+D. Memory ratio
+#END_CARD#
+A 
+#END_TERM#
+"Memory is organized into records and access must be made in a specific linear sequence" is a description of __________.
+A. Sequential access
+B. Direct access
+C. Random access
+D. Associative
+#END_CARD#
+C 
+#END_TERM#
+individual blocks or records have a unique address based on physical location with __________.
+A. Associative
+B. Physical access
+C. Direct access
+D. Sequential access
+#END_CARD#
+D 
+#END_TERM#
+For random-access memory, __________ is the time from the instant that an address is presented to the memory to the instant that data have been stored or made available for use.
+A. Memory cycle time
+B. Direct access
+C. Transfer rate
+D. Access time
+#END_CARD#
+B 
+#END_TERM#
+The ________ consists of the access time plus any additional time required before a second access can commence.
+A. Latency
+B. Memory cycle time
+C. Direct access
+D. Transfer rate
+#END_CARD#
+A 
+#END_TERM#
+A portion of main memory used as a buffer to hold data temporarily that is to be read out to disk is referred to as a _________.
+A. Disk cache
+B. Latency
+C. Virtual address
+D. Miss
+#END_CARD#
+C 
+#END_TERM#
+A line includes a _________ that identifies which particular block is currently being stored.
+A. Cache
+B. Hit
+C. Tag
+D. Locality
+#END_CARD#
+A 
+#END_TERM#
+__________ is the simplest mapping technique and maps each block of main memory into only one possible cache line.
+A. Direct mapping
+B. Associative mapping
+C. Set associative mapping
+D. None of the above
+#END_CARD#
+C 
+#END_TERM#
+When using the __________ technique all write operations made to main memory are made to the cache as well.
+A. Write back
+B. LRU
+C. Write through
+D. Unified cache
+#END_CARD#
+B 
+#END_TERM#
+The key advantage of the __________ design is that it eliminates contention for the cache between the instruction fetch/decode unit and the execution unit.
+A. Logical cache
+B. Split cache
+C. Unified cache
+D. Physical cache
+#END_CARD#
+C 
+#END_TERM#
+The Pentium 4 _________ component executes micro-operations, fetching the required data from the L1 data cache and temporarily storing results in registers.
+A. Fetch/decode unit
+B. Out-of-order execution logic
+C. Execution unit
+D. Memory subsystem
+#END_CARD#
+A 
+#END_TERM#
+In reference to access time to a two-level memory, a _________ occurs if an accessed word is not found in the faster memory.
+A. Miss
+B. Hit
+C. Line
+D. Tag
+#END_CARD#
+B 
+#END_TERM#
+A logical cache stores data using __________.
+A. Physical addresses 
+B. Virtual addresses
+C. Random addresses
+D. None of the above
+#END_CARD#
+T 
+#END_TERM#
+The basic element of a semiconductor memory is the memory cell.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A characteristic of ROM is that it is volatile.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+RAM must be provided with a constant power supply.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The two traditional forms of RAM used in computers are DRAM and SRAM.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A static RAM will hold its data as long as power is supplied to it.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Nonvolatile means that power must be continuously supplied to the memory to preserve the bit values.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The advantage of RAM is that the data or program is permanently in main memory and need never be loaded from a secondary storage device.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Semiconductor memory comes in packaged chips.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+All DRAMs require a refresh operation.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A number of chips can be grouped together to form a memory bank.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+An error-correcting code enhances the reliability of the memory at the cost of added complexity.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+DRAM is much costlier than SRAM.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+RDRAM is limited by the fact that it can only send data to the processor once per bus clock cycle.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The prefetch buffer is a memory cache located on the RAM chip.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The SRAM on the CDRAM cannot be used as a buffer to support the serial access of a block of data.
+(T/F)
+#END_CARD#
+D 
+#END_TERM#
+Which properties do all semiconductor memory cells share?
+A. They exhibit two stable states which can be used to represent binary 1 and 0
+B. They are capable of being written into to set the state
+C. They are capable of being read to sense the state
+D. All of the above
+#END_CARD#
+A 
+#END_TERM#
+One distinguishing characteristic of memory that is designated as _________ is that it is possible to both to read data from the memory and to write new data into the memory easily and rapidly.
+A. RAM
+B. ROM
+C. EPROM
+D. EEPROM
+#END_CARD#
+D 
+#END_TERM#
+Which of the following memory types are nonvolatile?
+A. Erasable PROM
+B. Programmable ROM
+C. Flash memory
+D. All of the above
+#END_CARD#
+B 
+#END_TERM#
+In a _________, binary values are stored using traditional flip-flop logic-gate configurations.
+A. ROM
+B. SRAM
+C. DRAM
+D. RAM
+#END_CARD#
+C 
+#END_TERM#
+A __________ contains a permanent pattern of data that cannot be changed, is nonvolatile, and cannot have new data written into it.
+A. RAM
+B. SRAM
+C. ROM
+D. Flash memory
+#END_CARD#
+A 
+#END_TERM#
+With _________ the microchip is organized so that a section of memory cells are erased in a single action.
+A. Flash memory
+B. SDRAM
+C. DRAM
+D. EEPROM
+#END_CARD#
+B 
+#END_TERM#
+__________ can be caused by harsh environmental abuse, manufacturing defects, and wear.
+A. SEC errors 
+B. Hard errors
+C. Syndrome errors
+D. Soft errors
+#END_CARD#
+A 
+#END_TERM#
+_________ can be caused by power supply problems or alpha particles.
+A. Soft errors
+B. AGT errors
+C. Hard errors 
+D. SEC errors
+#END_CARD#
+B 
+#END_TERM#
+The _________ exchanges data with the processor synchronized to an external clock signal and running at the full speed of the processor/memory bus without imposing wait states.
+A. DDR-DRAM
+B. SDRAM
+C. CDRAM
+D. None of the above
+#END_CARD#
+C 
+#END_TERM#
+________ can send data to the processor twice per clock cycle.
+A. CDRAM
+B. SDRAM
+C. DDR-DRAM
+D. RDRAM
+#END_CARD#
+A 
+#END_TERM#
+__________ increases the data transfer rate by increasing the operational frequency of the RAM chip and by increasing the prefetch buffer from 2 bits to 4 bits per chip.
+A. DDR2
+B. RDRAM
+C. CDRAM
+D. DDR3
+#END_CARD#
+C 
+#END_TERM#
+________ increases the prefetch buffer size to 8 bits.
+A. CDRAM
+B. RDRAM
+C. DDR3
+D. All of the above
+#END_CARD#
+A 
+#END_TERM#
+Theoretically, a DDR module can transfer data at a clock rate in the range of __________ MHz.
+A. 200 to 600
+B. 400 to 1066
+C. 600 to 1400
+D. 800 to 1600
+#END_CARD#
+B 
+#END_TERM#
+A DDR3 module transfers data at a clock rate of __________ MHz.
+A. 600 to 1200
+B. 800 to 1600
+C. 1000 to 2000
+D. 1500 to 3000
+#END_CARD#
+D 
+#END_TERM#
+The ________ enables the RAM chip to preposition bits to be placed on the data bus as rapidly as possible.
+A. Flash memory
+B. Hamming code
+C. RamBus
+D. Buffer
+#END_CARD#
+T 
+#END_TERM#
+Magnetic disks are the foundation of external memory on virtually all computer systems.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+During a read or write operation, the head rotates while the platter beneath it stays stationary.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The width of a track is double that of the head.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+There are typically hundreds of sectors per track and they may be either fixed or variable lengths.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A bit near the center of a rotating disk travels past a fixed point slower than a bit on the outside.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The disadvantage of using CAV is that individual blocks of data can only be directly addressed by track and sector.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A removable disk can be removed and replaced with another disk.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The head must generate or sense an electromagnetic field of sufficient magnitude to write and read properly.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The transfer time to or from the disk does not depend on the rotation speed of the disk.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+RAID is a set of physical disk drives viewed by the operating system as a single logical drive.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+RAID level 0 is not a true member of the RAID family because it does not include redundancy to improve performance.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Because data are striped in very small strips, RAID 3 cannot achieve very high data transfer rates.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The SSDs now on the market use a type of semiconductor memory referred to as flash memory.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+SSD performance has a tendency to speed up as the device is used.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Flash memory becomes unusable after a certain number of writes.
+(T/F)
+#END_CARD#
+C 
+#END_TERM#
+Greater ability to withstand shock and damage, improvement in the uniformity of the magnet film surface to increase disk reliability, and a significant reduction in overall surface defects to help reduce read-write errors, are all benefits of ___________.
+a. magnetic read and write mechanisms
+b. platters
+c. the glass substrate
+d. a solid state drive
+#END_CARD#
+B 
+#END_TERM#
+Adjacent tracks are separated by _________.
+a. sectors
+b. gaps
+c. pits
+d. heads
+#END_CARD#
+C 
+#END_TERM#
+Data are transferred to and from the disk in __________.
+a. tracks
+b. gaps
+c. sectors
+d. pits
+#END_CARD#
+D 
+#END_TERM#
+In most contemporary systems fixed-length sectors are used, with _________ bytes being the nearly universal sector size.
+a. 64
+b. 128
+c. 256
+d. 512
+#END_CARD#
+A 
+#END_TERM#
+Scanning information at the same rate by rotating the disk at a fixed speed is known as the _________.
+a. constant angular velocity
+b. magnetoresistive
+c. rotational delay
+d. constant linear velocity
+#END_CARD#
+B 
+#END_TERM#
+The disadvantage of _________ is that the amount of data that can be stored on the long outer tracks is only the same as what can be stored on the short inner tracks.
+a. SSD
+b. CAV
+c. ROM
+d. CLV
+#END_CARD#
+A 
+#END_TERM#
+A __________ disk is permanently mounted in the disk drive, such as the hard disk in a personal computer.
+a. nonremovable
+b. movable-head
+c. double sided
+d. removable
+#END_CARD#
+C 
+#END_TERM#
+When the magnetizable coating is applied to both sides of the platter the disk is then referred to as _________.
+a. multiple sided
+b. substrate
+c. double sided
+d. all of the above
+#END_CARD#
+D 
+#END_TERM#
+The set of all the tracks in the same relative position on the platter is referred to as a _________.
+a. floppy disk
+b. single-sided disk
+c. sector
+d. cylinder
+#END_CARD#
+A 
+#END_TERM#
+The sum of the seek time and the rotational delay equals the _________, which is the time it takes to get into position to read or write.
+a. access time
+b. gap time
+c. transfer time
+d. constant angular velocity
+#END_CARD#
+A 
+#END_TERM#
+__________ is the standardized scheme for multiple-disk database design.
+a. RAID
+b. CAV
+c. CLV
+d. SSD
+#END_CARD#
+B 
+#END_TERM#
+RAID level ________ has the highest disk overhead of all RAID types.
+a. 0
+b. 1
+c. 3
+d. 5
+#END_CARD#
+D 
+#END_TERM#
+A _________ is a high-definition video disk that can store 25 Gbytes on a single layer on a single side.
+a. DVD
+b. DVD-R
+c. DVD-RW
+d. Blu-ray DVD
+#END_CARD#
+C 
+#END_TERM#
+________ is when the disk rotates more slowly for accesses near the outer edge than for those near the center.
+a. Constant angular velocity (CAV)
+b. Magnetoresistive
+c. Constant linear velocity (CLV)
+d. Seek time
+#END_CARD#
+A 
+#END_TERM#
+The areas between pits are called _________.
+a. lands
+b. sectors
+c. cylinders
+d. strips
+#END_CARD#
+T 
+#END_TERM#
+A set of I/O modules is a key element of a computer system.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+An I/O module must recognize one unique address for each peripheral it controls.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+I/O channels are commonly seen on microcomputers, whereas I/O controllers are used on mainframes.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+It is the responsibility of the processor to periodically check the status of the I/O module until it finds that the operation is complete.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+With isolated I/O there is a single address space for memory locations and I/O devices.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A disadvantage of memory-mapped I/O is that valuable memory address space is used up.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The disadvantage of the software poll is that it is time consuming.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+With a daisy chain the processor just picks the interrupt line with the highest priority.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Bus arbitration makes use of vectored interrupts.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The rotating interrupt mode allows the processor to inhibit interrupts from certain devices.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Because the 82C55A is programmable via the control register, it can be used to control a variety of simple peripheral devices.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+When large volumes of data are to be moved, a more efficient technique is direct memory access (DMA).
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+An I/O channel has the ability to execute I/O instructions, which gives it complete control over I/O operations.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A multipoint external interface provides a dedicated line between the I/O module and the external device.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A Thunderbolt compatible peripheral interface is no more complex than that of a simple USB device.
+(T/F)
+#END_CARD#
+B 
+#END_TERM#
+The _________ contains logic for performing a communication function between the peripheral and the bus.
+A. I/O channel
+B. I/O module
+C. I/O processor
+D. I/O command
+#END_CARD#
+A 
+#END_TERM#
+The most common means of computer/user interaction is a __________.
+A. keyboard/monitor
+B. mouse/printer
+C. modem/printer
+D. monitor/printer
+#END_CARD#
+C 
+#END_TERM#
+The I/O function includes a _________ requirement to coordinate the flow of traffic between internal resources and external devices.
+A. cycle
+B. status reporting
+C. control and timing
+D. data
+#END_CARD#
+A 
+#END_TERM#
+An I/O module that takes on most of the detailed processing burden, presenting a high-level interface to the processor, is usually referred to as an _________.
+A. I/O channel
+B. I/O command
+C. I/O controller
+D. device controller
+#END_CARD#
+B 
+#END_TERM#
+An I/O module that is quite primitive and requires detailed control is usually referred to as an _________.
+A. I/O command
+B. I/O controller
+C. I/O channel
+D. I/O processor
+#END_CARD#
+D 
+#END_TERM#
+The _________ command causes the I/O module to take an item of data from the data bus and subsequently transmit that data item to the peripheral.
+A. control
+B. test
+C. read
+D. write
+#END_CARD#
+A 
+#END_TERM#
+The ________ command is used to activate a peripheral and tell it what to do.
+A. control
+B. test
+C. read
+D. write
+#END_CARD#
+C 
+#END_TERM#
+________ is when the DMA module must force the processor to suspend operation temporarily.
+A. Interrupt
+B. Thunderbolt
+C. Cycle stealing
+D. Lock down
+#END_CARD#
+D 
+#END_TERM#
+The 8237 DMA is known as a _________ DMA controller.
+A. command
+B. cycle stealing
+C. interrupt
+D. fly-by
+#END_CARD#
+A 
+#END_TERM#
+________ is a digital display interface standard now widely adopted for computer monitors, laptop displays, and other graphics and video interfaces.
+A. DisplayPort
+B. PCI Express
+C. Thunderbolt
+D. InfiniBand
+#END_CARD#
+C 
+#END_TERM#
+The ________ layer is the key to the operation of Thunderbolt and what makes it attractive as a high-speed peripheral I/O technology.
+A. cable
+B. application
+C. common transport
+D. physical
+#END_CARD#
+D 
+#END_TERM#
+The Thunderbolt protocol _________ layer is responsible for link maintenance including hot-plug detection and data encoding to provide highly efficient data transfer.
+A. cable
+B. application
+C. common transport
+D. physical
+#END_CARD#
+B 
+#END_TERM#
+The ________ contains I/O protocols that are mapped on to the transport layer.
+A. cable
+B. application
+C. common transport
+D. physical
+#END_CARD#
+A 
+#END_TERM#
+A ________ is used to connect storage systems, routers, and other peripheral devices to an InfiniBand switch.
+A. target channel adapter
+B. InfiniBand switch
+C. host channel adapter
+D. subnet
+#END_CARD#
+D 
+#END_TERM#
+A ________ connects InfiniBand subnets, or connects an InfiniBand switch to a network such as a local area network, wide area network, or storage area network.
+A. memory controller
+B. TCA
+C. HCA
+D. router
+#END_CARD#
+T 
+#END_TERM#
+Scheduling and memory management are the two OS functions that are most relevant to the study of computer organization and architecture.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The end user is concerned mainly with the computer's architecture.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The most important system program is the OS.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The ABI is the boundary between hardware and software.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The OS must determine how much processor time is to be devoted to the execution of a particular user program.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+With a batch operating system the user does not have direct access to the processor.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Privileged instructions are certain instructions that are designated special and can be executed only by the monitor.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Uniprogramming is the central theme of modern operating systems.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Both batch multiprogramming and time sharing use multiprogramming.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+An interrupt is a hardware-generated signal to the processor.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Swapping is an I/O operation.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+With demand paging it is necessary to load an entire process into main memory.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The Pentium II includes hardware for both segmentation and paging.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+ARM provides a versatile virtual memory system architecture that can be tailored to the needs of the embedded system designer.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Managers are users of domains that must observe the access permissions of the individual sections and/or pages that make up that domain.
+(T/F)
+#END_CARD#
+B 
+#END_TERM#
+The __________ is a program that controls the execution of application programs and acts as an interface between applications and the computer hardware.
+A. job control language
+B. operating system
+C. batch system
+D. nucleus
+#END_CARD#
+A 
+#END_TERM#
+Facilities and services provided by the OS that assist the programmer in creating programs are in the form of _________ programs that are not actually part of the OS but are accessible through the OS.
+A. utility
+B. multitasking
+C. JCL
+D. logical address
+#END_CARD#
+D 
+#END_TERM#
+The _________ defines the repertoire of machine language instructions that a computer can follow.
+A. ABI
+B. API
+C. HLL
+D. ISA
+#END_CARD#
+C 
+#END_TERM#
+The _________ defines the system call interface to the operating system and the hardware resources and services available in a system through the user instruction set architecture.
+A. HLL
+B. API
+C. ABI
+D. ISA
+#END_CARD#
+D 
+#END_TERM#
+The ________ gives a program access to the hardware resources and services available in a system through the user instruction set architecture supplemented with high-level language library calls.
+A. JCL
+B. ISA
+C. ABI
+D. API
+#END_CARD#
+B 
+#END_TERM#
+A _________ system works only one program at a time.
+A. batch
+B. uniprogramming
+C. kernel
+D. privileged instruction
+#END_CARD#
+A 
+#END_TERM#
+A _________ is a special type of programming language used to provide instructions to the monitor.
+A. job control language
+B. multiprogram
+C. kernel
+D. utility
+#END_CARD#
+A 
+#END_TERM#
+The _________ scheduler determines which programs are admitted to the system for processing.
+A. long-term
+B. medium-term
+C. short-term
+D. I/O
+#END_CARD#
+C 
+#END_TERM#
+The ________ scheduler is also known as the dispatcher.
+A. long-term
+B. medium-term
+C. short-term
+D. I/O
+#END_CARD#
+D 
+#END_TERM#
+A _________ is an actual location in main memory.
+A. logical address
+B. partition address
+C. base address
+D. physical address
+#END_CARD#
+B 
+#END_TERM#
+________ is when the processor spends most of its time swapping pages rather than executing instructions.
+A. Swapping
+B. Thrashing
+C. Paging
+D. Multitasking
+#END_CARD#
+A 
+#END_TERM#
+Virtual memory schemes make use of a special cache called a ________ for page table entries.
+A. TLB
+B. HLL
+C. VMC
+D. SPB
+#END_CARD#
+A 
+#END_TERM#
+With _________ the virtual address is the same as the physical address.
+A. unsegmented unpaged memory
+B. unsegmented paged memory
+C. segmented unpaged memory
+D. segmented paged memory
+#END_CARD#
+C 
+#END_TERM#
+A _________ is a collection of memory regions.
+A. APX
+B. nucleus
+C. domain
+D. page table
+#END_CARD#
+B 
+#END_TERM#
+The OS maintains a __________ for each process that shows the frame location for each page of the process.
+A. kernel
+B. page table
+C. TLB
+D. logical address
+#END_CARD#
+F 
+#END_TERM#
+Our primary counting system is based on binary digits to represent numbers.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The decimal system has a radix of 100.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Negative powers of 10 are used to represent the positions of the numbers for decimal fractions.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A number with both an integer and fractional part has digits raised to both positive and negative powers of 10.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+In any number, the rightmost digit is referred to as the most significant digit.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A number cannot be converted from binary notation to decimal notation.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+There are 50 tens in the number 509.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The decimal system is a special case of a positional number system with radix 10 and with digits in the range 0 through 9.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Although convenient for computers, the binary system is exceedingly cumbersome for human beings.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A nibble is a grouping of four decimal digits.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Hexadecimal notation is only used for representing integers.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+It is extremely easy to convert between binary and hexadecimal notation.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Hexadecimal notation is more compact than binary notation.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A sequence of hexadecimal digits can be thought of as representing an integer in base 10.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Because of the inherent binary nature of digital computer components, all forms of data within computers are represented by various binary codes.
+(T/F)
+#END_CARD#
+B 
+#END_TERM#
+The decimal system has a base of _________.
+A. 0
+B. 10
+C. 100
+D. 1000
+#END_CARD#
+B 
+#END_TERM#
+Which digit represents "hundreds" in the number 8732?
+A. 8
+B. 7
+C. 3
+D. 2
+#END_CARD#
+C 
+#END_TERM#
+Which of the following is correct?
+A. 25 = (2 x 10^2) + (5 x 10^1)
+B. 289 = (2 x 10^3) + (8 x 10^1) + (9 x 10^0)
+C. 7523 = (7 x 10^3) + (5 x 10^2) + (2 x 10^1) + (3 x 10^0)
+D. 0.628 = (6 x 10^-3) + (2 x 10^-2) + (8 x 10^-1)
+#END_CARD#
+A 
+#END_TERM#
+In the number 3109, the 3 is referred to as the _________.
+A. most significant digit
+B. least significant digit
+C. radix
+D. base
+#END_CARD#
+B 
+#END_TERM#
+In the number 3109, the 9 is referred to as the _________.
+A. most significant digit
+B. least significant digit
+C. radix
+D. base
+#END_CARD#
+C 
+#END_TERM#
+Numbers in the binary system are represented to the _________.
+A. base 0
+B. base 1
+C. base 2
+D. base 10
+#END_CARD#
+D 
+#END_TERM#
+Hexadecimal has a base of _________.
+A. 2
+B. 8
+C. 10
+D. 16
+#END_CARD#
+A 
+#END_TERM#
+The binary string 110111100001 is equivalent to __________.
+A. DE1 (16)
+B. C78 (16)
+C. FF64 (16)
+D. B8F (16)
+#END_CARD#
+B 
+#END_TERM#
+The _________ system uses only the numbers 0 and 1.
+A. positional
+B. binary
+C. hexadecimal
+D. decimal
+#END_CARD#
+C 
+#END_TERM#
+Decimal "10" is __________ in binary.
+A. 1000
+B. 0010
+C. 1010
+D. 0001
+#END_CARD#
+B 
+#END_TERM#
+Decimal "10" is _________ in hexadecimal.
+A. 1
+B. A
+C. 0
+D. FF
+#END_CARD#
+C 
+#END_TERM#
+Four bits is called a _________.
+A. radix point
+B. byte
+C. nibble
+D. binary digit
+#END_CARD#
+A 
+#END_TERM#
+Another term for "base" is __________.
+A. radix
+B. integer
+C. position
+D. digit
+#END_CARD#
+D 
+#END_TERM#
+In the number 472.156 the 2 is the _________.
+A. most significant digit
+B. radix point
+C. least significant digit
+D. none of the above
+#END_CARD#
+B 
+#END_TERM#
+Binary 0101 is hexadecimal _________.
+A. 0
+B. 5
+C. A
+D. 10
+#END_CARD#
+T 
+#END_TERM#
+One drawback of sign-magnitude representation is that there are two representations of 0.
+#END_CARD#
+T 
+#END_TERM#
+Both sign-magnitude representation and twos complement representation use the most significant bit as a sign bit.
+#END_CARD#
+F 
+#END_TERM#
+It is not necessary for the ALU to signal when overflow occurs.
+#END_CARD#
+F 
+#END_TERM#
+Overflow can only occur if there is a carry.
+#END_CARD#
+T 
+#END_TERM#
+Compared with addition and subtraction, multiplication is a complex operation, whether performed in hardware of software.
+#END_CARD#
+T 
+#END_TERM#
+For each 1 on the multiplier, an add and a shift operation are required; but for each 0 only a shift is required.
+#END_CARD#
+T 
+#END_TERM#
+Addition and subtraction can be performed on numbers in twos complement notation by treating them as unsigned integers.
+#END_CARD#
+F 
+#END_TERM#
+Booth's algorithm performs more additions and subtractions than a straightforward algorithm.
+#END_CARD#
+T 
+#END_TERM#
+With a fixed-point notation it is possible to represent a range of positive and negative integers centered on or near 0.
+#END_CARD#
+T 
+#END_TERM#
+An advantage of biased representation is that nonnegative floating-point numbers can be treated as integers for comparison purposes.
+#END_CARD#
+F 
+#END_TERM#
+For base 2 representation, a normal number is one in which the most significant bit of the significand is zero.
+#END_CARD#
+T 
+#END_TERM#
+Actual floating-point representations include a special bit pattern to designate zero.
+#END_CARD#
+T 
+#END_TERM#
+The numbers represented in floating-point notation are not spaced evenly along the number line, as are fixed-point numbers.
+#END_CARD#
+F 
+#END_TERM#
+Overflow is a less serious problem because the result can generally be satisfactorily approximated by 0.
+#END_CARD#
+T 
+#END_TERM#
+One of the trade-offs of floating-point math is that many calculations produce results that are not exact and have to be rounded to the nearest value that the notation can represent.
+#END_CARD#
+twos complement representation 
+#END_TERM#
+The most common scheme in implementing the integer portion of the ALU is:
+a. sign-magnitude representation
+b. biased representation
+c. twos complement representation
+d. ones complement representation
+#END_CARD#
+Twos compliment 
+#END_TERM#
+__________ representation is almost universally used as the processor representation for integers.
+a. Biased
+b. Twos compliment
+c. Sign-magnitude
+d. Decimal
+#END_CARD#
+sign extension 
+#END_TERM#
+Moving the sign bit to the new leftmost position and filling in with copies of the sign bit is called _________.
+a. sign extension 
+b. range extension
+c. bit extension
+d. partial extension
+#END_CARD#
+sign-magnitude 
+#END_TERM#
+In ________ representation the rule for forming the negation of an integer is to invert the sign bit.
+a. ones complement
+b. twos complement
+c. biased
+d. sign-magnitude
+#END_CARD#
+Overflow 
+#END_TERM#
+________ is when the result may be larger than can be held in the word size being used.
+a.Overflow
+b. Arithmetic shift
+c. Underflow
+d. Partial product
+#END_CARD#
+Multiplication 
+#END_TERM#
+__________ involves the generation of partial products, one for each digit in the multiplier, which are then summed to produce the final product.
+a. Addition
+b. Subtraction
+c. Multiplication
+d. Division
+#END_CARD#
+mantissa 
+#END_TERM#
+Although considered obsolete, the term _________ is sometimes used instead of significand.
+a. minuend
+b. mantissa
+c. base
+d. subtrahend
+#END_CARD#
+negative overflow 
+#END_TERM#
+Negative numbers less than -(2 - 2^-23) x 2 128 are called _________.
+a. positive underflow
+b. positive overflow
+c. negative underflow
+d. negative overflow
+#END_CARD#
+negative underflow 
+#END_TERM#
+Negative numbers greater than 2^-127 are called _________.
+a. negative overflow
+b. negative underflow
+c. positive overflow
+d. positive underflow
+#END_CARD#
+positive underflow 
+#END_TERM#
+Positive numbers less than 2^-127 are called ________.
+a. positive underflow
+b. positive overflow
+c. negative underflow
+d. negative overflow
+#END_CARD#
+positive overflow 
+#END_TERM#
+Positive numbers greater than (2 - 2^-23) x 2^-128 are called _________.
+a. negative underflow
+b. positive overflow
+c. positive underflow
+d. negative overflow
+#END_CARD#
+Extended precision 
+#END_TERM#
+_________ formats extend a supported basic format by providing additional bits in the exponent and in the significand.
+a. Arithmetic
+b. Basic
+c. Extended precision 
+d. Interchange
+#END_CARD#
+Subnormal numbers 
+#END_TERM#
+_________ are included in IEEE 754 to handle cases of exponent underflow.
+a. Subnormal numbers 
+b. Guard bits
+c. Normal numbers
+d. Radix points
+#END_CARD#
+Exponent overflow 
+#END_TERM#
+__________ is when a positive exponent exceeds the maximum possible exponent value.
+a. Significand underflow
+b. Significand overflow
+c. Exponent overflow
+d. Exponent underflow
+#END_CARD#
+Exponent underflow 
+#END_TERM#
+__________ means that the number is too small to be represented and it may be reported as 0.
+a. Negative underflow
+b. Exponent underflow
+c. Positive underflow
+d. Significand underflow
+#END_CARD#
+T 
+#END_TERM#
+The operation of the digital computer is based on the storage and processing of binary data.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Claude Shannon, a research assistant in the Electrical Engineering Department at M.I.T., proposed the basic principles of Boolean algebra.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+In the absence of parentheses, the AND operation takes precedence over the OR operation.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Logical functions are implemented by the interconnection of decoders.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The delay by the propagation time of signals through the gate is known as the gate delay.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A combinational circuit consists of n binary inputs and m binary outputs.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Any Boolean function can be implemented in electronic form as a network of gates.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A Boolean function can be realized in the sum of products (SOP) form but not in the product of sums (POS) form.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+"Don't care" conditions are when certain combinations of values of variables never occur, and therefore the corresponding output never occurs.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The value to be loaded into the program counter can come from a binary counter, the instruction register, or the output of the ALU.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+In general, a decoder has n inputs and 2^n outputs.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Combinational circuits are often referred to as "memoryless" circuits because their output depends only on their current input and no history of prior inputs is retained.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Binary addition is exactly the same as Boolean algebra.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Events in the digital computer are synchronized to a clock pulse so that changes occur only when a clock pulse occurs.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A register is a digital circuit used within the CPU to store one or more bits of data.
+(T/F)
+#END_CARD#
+C 
+#END_TERM#
+The operand ________ yields true if and only if both of its operands are true.
+A. XOR
+B. OR
+C. AND
+D. NOT
+#END_CARD#
+D 
+#END_TERM#
+The operation _________ yields true if either or both of its operands are true.
+A. NOT
+B. AND
+C. NAND
+D. OR
+#END_CARD#
+B 
+#END_TERM#
+The unary operation _________ inverts the value of its operand.
+A. OR
+B. NOT
+C. NAND
+D. XOR
+#END_CARD#
+A 
+#END_TERM#
+A _______ is an electronic circuit that produces an output signal that is a simple Boolean operation on its input signals.
+A. gate
+B. decoder
+C. counter
+D. flip-flop
+#END_CARD#
+D 
+#END_TERM#
+Which of the following is a functionally complete set?
+A. AND, NOT
+B. NOR
+C. AND, OR, NOT
+D. all of the above
+#END_CARD#
+B 
+#END_TERM#
+For more than four variables an alternative approach is a tabular technique referred to as the _________ method.
+A. DeMorgan
+B. Quine-McCluskey
+C. Karnaugh map
+D. Boole-Shannon
+#END_CARD#
+A 
+#END_TERM#
+________ are used in digital circuits to control signal and data routing.
+A. Multiplexers
+B. Program counters
+C. Flip-flops
+D. Gates
+#END_CARD#
+C 
+#END_TERM#
+________ is implemented with combinational circuits.
+A. Nano memory
+B. Random access memory
+C. Read only memory
+D. No memory
+#END_CARD#
+D 
+#END_TERM#
+The ________ exists in one of two states and, in the absence of input, remains in that state.
+A. assert
+B. complex PLD
+C. decoder
+D. flip-flop
+#END_CARD#
+A 
+#END_TERM#
+The ________ flip-flop has two inputs and all possible combinations of input values are valid.
+A. J-K
+B. D
+C. S-R
+D. clocked S-R
+#END_CARD#
+B 
+#END_TERM#
+A _________ accepts and/or transfers information serially.
+A. S-R latch
+B. shift register
+C. FPGA
+D. parallel register
+#END_CARD#
+C 
+#END_TERM#
+Counters can be designated as _________.
+A. asynchronous
+B. synchronous
+C. both asynchronous and synchronous
+D. neither asynchronous or synchronous
+#END_CARD#
+A 
+#END_TERM#
+CPUs make use of _________ counters, in which all of the flip-flops of the counter change at the same time.
+A. synchronous
+B. asynchronous
+C. clocked S-R
+D. timed ripple
+#END_CARD#
+A 
+#END_TERM#
+The _________ table provides the value of the next output when the inputs and the present output are known, which is exactly the information needed to design the counter or any sequential circuit.
+A. excitation
+B. Kenough
+C. J-K flip-flop
+D. FPGA
+#END_CARD#
+B 
+#END_TERM#
+A _________ is a PLD featuring a general structure that allows very high logic capacity and offers more narrow logic resources and a higher ration of flip-flops to logic resources than do CPLDs.
+A. SPLD
+B. FPGA
+C. PAL
+D. PLA
+#END_CARD#
+T 
+#END_TERM#
+One boundary where the computer designer and the computer programmer can view the same machine is the machine instruction set.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The operation to be performed is specified by a binary code known as the operation code.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The address of the next instruction to be fetched must be a real address, not a virtual address.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+It has become common practice to use a symbolic representation of machine instructions.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A high-level language expresses operations in a basic form involving the movement of data to or from registers.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+One of the traditional ways of describing processor architecture is in terms of the number of addresses contained in each instruction.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Memory references are faster than register references.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The instruction set is the programmer's means of controlling the processor.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Addresses are a form of data.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Not all machine languages include numeric data types.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+ARM processors support data types of 8 (byte), 16 (halfword), and 32 (word) bits in length.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Most machines provide the basic arithmetic operations of add, subtract, multiply, and divide.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A branch can be either forward or backward.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Procedures do not allow programming tasks to be subdivided into smaller units.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The focus of MMX technology is multimedia programming.
+(T/F)
+#END_CARD#
+B 
+#END_TERM#
+The ________ specifies the operation to be performed.
+A. source operand reference
+B. opcode
+C. next instruction reference
+D. processor register
+#END_CARD#
+B 
+#END_TERM#
+A(n) _________ expresses operations in a concise algebraic form using variables.
+A. opcode
+B. high-level language
+C. machine language
+D. register
+#END_CARD#
+C 
+#END_TERM#
+There must be ________ instructions for moving data between memory and the registers.
+A. branch
+B. logic
+C. memory
+D. I/O
+#END_CARD#
+A 
+#END_TERM#
+________ instructions operate on the bits of a word as bits rather than as numbers, providing capabilities for processing any other type of data the user may wish to employ.
+A. Logic
+B. Arithmetic
+C. Memory
+D. Test
+#END_CARD#
+D 
+#END_TERM#
+_________ instructions provide computational capabilities for processing number data.
+A. Boolean
+B. Logic
+C. Memory
+D. Arithmetic
+#END_CARD#
+A 
+#END_TERM#
+_______ instructions are needed to transfer programs and data into memory and the results of computations back out to the user.
+A. I/O
+B. Transfer
+C. Control
+D. Branch
+#END_CARD#
+C 
+#END_TERM#
+The x86 data type that is a signed binary value contained in a byte, word, or doubleword, using twos complement representation is _________.
+A. general
+B. ordinal
+C. integer
+D. packed BCD
+#END_CARD#
+B 
+#END_TERM#
+The most fundamental type of machine instruction is the _________ instruction.
+A. conversion
+B. data transfer
+C. arithmetic
+D. logical
+#END_CARD#
+A 
+#END_TERM#
+The _________ instruction includes an implied address.
+A. skip
+B. rotate
+C. stack
+D. push
+#END_CARD#
+D 
+#END_TERM#
+Which of the following is a true statement?
+A. a procedure can be called from more than one location
+B. a procedure call can appear in a procedure
+C. each procedure call is matched by a return in the called program
+D. all of the above
+#END_CARD#
+B 
+#END_TERM#
+The entire set of parameters, including return address, which is stored for a procedure invocation is referred to as a _________.
+A. branch
+B. stack frame
+C. pop
+D. push
+#END_CARD#
+A 
+#END_TERM#
+Which ARM operation category includes logical instructions (AND, OR, XOR), add and subtract instructions, and test and compare instructions?
+A. data-processing instructions
+B. branch instructions
+C. load and store instructions
+D. extend instructions
+#END_CARD#
+C 
+#END_TERM#
+In the ARM architecture only _________ instructions access memory locations.
+A. data processing
+B. status register access
+C. load and store
+D. branch
+#END_CARD#
+D 
+#END_TERM#
+Which data type is defined in MMX?
+A. packed byte
+B. packed word
+C. packed doubleword
+D. all of the above
+#END_CARD#
+B 
+#END_TERM#
+A branch instruction in which the branch is always taken is _________.
+A. conditional branch
+B. unconditional branch
+C. jump
+D. bi-endian
+#END_CARD#
+T 
+#END_TERM#
+The value of the mode field determines which addressing mode is to be used.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+In a system without virtual memory, the effective address is a virtual address or a register.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The disadvantage of immediate addressing is that the size of the number is restricted to the size of the address field.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+With direct addressing, the length of the address field is usually less than the word length, thus limiting the address range.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Register addressing is similar to direct addressing with the only difference being that the address field refers to a register rather than a main memory address.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Register indirect addressing uses the same number of memory references as indirect addressing.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Three of the most common uses of stack addressing are relative addressing, base-register addressing, and indexing.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The method of calculating the EA is the same for both base-register addressing and indexing.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Typically an instruction set will include both preindexing and postindexing.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The x86 is equipped with a variety of addressing modes intended to allow the efficient execution of high-level languages.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The base with index and displacement mode sums the contents of the base register, the index register, and a displacement to form the effective address.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The memory transfer rate has not kept up with increases in processor speed.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+For addresses that reference memory the range of addresses that can be referenced is not related to the number of address bits.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The principal price to pay for variable-length instructions is an increase in the complexity of the processor.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+One advantage of linking the addressing mode to the operand rather than the opcode is that any addressing mode can be used with any opcode.
+(T/F)
+#END_CARD#
+B 
+#END_TERM#
+The advantage of __________ is that no memory reference other than the instruction fetch is required to obtain the operand.
+A. direct addressing
+B. immediate addressing
+C. register addressing
+D. stack addressing
+#END_CARD#
+D 
+#END_TERM#
+The principal advantage of ___________ addressing is that it is a very simple form of addressing.
+A. displacement
+B. register
+C. stack
+D. direct
+#END_CARD#
+A 
+#END_TERM#
+__________ has the advantage of large address space, however it has the disadvantage of multiple memory references.
+A. Indirect addressing
+B. Direct addressing
+C. Immediate addressing
+D. Stack addressing
+#END_CARD#
+C 
+#END_TERM#
+The advantages of _________ addressing are that only a small address field is needed in the instruction and no time-consuming memory references are required.
+A. direct
+B. indirect
+C. register
+D. displacement
+#END_CARD#
+B 
+#END_TERM#
+__________ has the advantage of flexibility, but the disadvantage of complexity.
+A. Stack addressing
+B. Displacement addressing
+C. Direct addressing
+D. Register addressing
+#END_CARD#
+A 
+#END_TERM#
+For _________, the address field references a main memory address and the referenced register contains a positive displacement from that address.
+A. indexing
+B. base-register addressing
+C. relative addressing
+D. all of the above
+#END_CARD#
+C 
+#END_TERM#
+Indexing performed after the indirection is __________.
+A. relative addressing
+B. autoindexing
+C. postindexing
+D. preindexing
+#END_CARD#
+A 
+#END_TERM#
+For the _________ mode, the operand is included in the instruction.
+A. immediate
+B. base
+C. register
+D. displacement
+#END_CARD#
+D 
+#END_TERM#
+The only form of addressing for branch instructions is _________ addressing.
+A. register
+B. relative
+C. base
+D. immediate
+#END_CARD#
+D 
+#END_TERM#
+Which of the following interrelated factors go into determining the use of the addressing bits?
+A. number of operands
+B. number of register sets
+C. address range
+D. all of the above
+#END_CARD#
+B 
+#END_TERM#
+_________ is a principle by which two variables are independent of each other.
+A. Opcode
+B. Orthogonality
+C. Completeness
+D. Autoindexing
+#END_CARD#
+C 
+#END_TERM#
+The _________ was designed to provide a powerful and flexible instruction set within the constraints of a 16-bit minicomputer.
+A. PDP-1
+B. PDP-8
+C. PDP-11
+D. PDP-10
+#END_CARD#
+A 
+#END_TERM#
+The __________ byte consists of three fields: the Scale field, the Index field and the Base field.
+A. SIB
+B. VAX
+C. PDP-11
+D. ModR/M
+#END_CARD#
+C 
+#END_TERM#
+All instructions in the ARM architecture are __________ bits long and follow a regular format.
+A. 8
+B. 16
+C. 32
+D. 64
+#END_CARD#
+D 
+#END_TERM#
+__________ is a design principle employed in designing the PDP-10 instruction set.
+A. Orthogonality
+B. Completeness
+C. Direct addressing
+D. All of the above
+#END_CARD#
+T 
+#END_TERM#
+The processor needs to store instructions and data temporarily while an instruction is being executed.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The control unit (CU) does the actual computation or processing of data.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Within the processor there is a set of registers that function as a level of memory above main memory and cache in the hierarchy.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Condition codes facilitate multiway branches.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The allocation of control information between registers and memory are not considered to be a key design issue.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Instruction pipelining is a powerful technique for enhancing performance but requires careful design to achieve optimum results with reasonable complexity.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The cycle time of an instruction pipeline is the time needed to advance a set of instructions one stage through the pipeline.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+A control hazard occurs when two or more instructions that are already in the pipeline need the same resource.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+One of the major problems in designing an instruction pipeline is assuring a steady flow of instructions to the initial stages of the pipeline.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The predict-never-taken approach is the most popular of all the branch prediction methods.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+It is possible to improve pipeline performance by automatically rearranging instructions within a program so that branch instructions occur later than actually desired.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Interrupt processing allows an application program to be suspended in order that a variety of interrupt conditions can be serviced and later resumed.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+An interrupt is generated from software and it is provoked by the execution of an instruction.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+While the processor is in user mode the program being executed is unable to access protected system resources or to change mode, other than by causing an exception to occur.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The exception modes have full access to system resources and can change modes freely.
+(T/F)
+#END_CARD#
+C 
+#END_TERM#
+__________ are a set of storage locations.
+A. Processors
+B. PSWs
+C. Registers
+D. Control units
+#END_CARD#
+A 
+#END_TERM#
+The ________ controls the movement of data and instructions into and out of the processor.
+A. control unit
+B. ALU
+C. shifter
+D. branch
+#END_CARD#
+B 
+#END_TERM#
+________ registers may be used only to hold data and cannot be employed in the calculation of an operand address.
+A. General purpose
+B. Data
+C. Address
+D. Condition code
+#END_CARD#
+B 
+#END_TERM#
+__________ are bits set by the processor hardware as the result of operations.
+A. MIPS
+B. Condition codes
+C. Stacks
+D. PSWs
+#END_CARD#
+D 
+#END_TERM#
+The _________ contains the address of an instruction to be fetched.
+A. instruction register
+B. memory address register
+C. memory buffer register
+D. program counter
+#END_CARD#
+C 
+#END_TERM#
+The _________ contains a word of data to be written to memory or the word most recently read.
+A. MAR 
+B. PC
+C. MBR
+D. IR
+#END_CARD#
+A 
+#END_TERM#
+The ________ determines the opcode and the operand specifiers.
+A. decode instruction
+B. fetch operands
+C. calculate operands 
+D. execute instruction
+#END_CARD#
+D 
+#END_TERM#
+_________ is a pipeline hazard.
+A. Control
+B. Resource
+C. Data
+D. All of the above
+#END_CARD#
+B 
+#END_TERM#
+A ________ hazard occurs when there is a conflict in the access of an operand location.
+A. resource
+B. data
+C. structural
+D. control
+#END_CARD#
+A 
+#END_TERM#
+A _________ is a small, very-high-speed memory maintained by the instruction fetch stage of the pipeline and containing the n most recently fetched instructions in sequence.
+A. loop buffer
+B. delayed branch
+C. multiple stream
+D. branch prediction
+#END_CARD#
+C 
+#END_TERM#
+The _________ is a small cache memory associated with the instruction fetch stage of the pipeline.
+A. dynamic branch
+B. loop table
+C. branch history table
+D. flag
+#END_CARD#
+B 
+#END_TERM#
+The _________ stage includes ALU operations, cache access, and register update.
+A. decode
+B. execute
+C. fetch
+D. write back
+#END_CARD#
+C 
+#END_TERM#
+________ is used for debugging.
+A. Direction flag
+B. Alignment check
+C. Trap flag
+D. Identification flag
+#END_CARD#
+D 
+#END_TERM#
+The ARM architecture supports _______ execution modes.
+A. 2
+B. 8
+C. 11
+D. 7
+#END_CARD#
+A 
+#END_TERM#
+The OS usually runs in ________.
+A. supervisor mode
+B. abort mode
+C. undefined mode
+D. fast interrupt mode
+#END_CARD#
+T 
+#END_TERM#
+Microprogramming eases the task of designing and implementing the control unit and provides support for the family concept.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Pipelining is a means of introducing parallelism into the essentially sequential nature of a machine-instruction program.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The major cost in the life cycle of a system is hardware.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+It is common for programs, both system and application, to continue to exhibit new bugs after years of operation.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Procedure calls and returns are not important aspects of HLL programs.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The register file is on the same chip as the ALU and control unit.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The register file employs much shorter addresses than addresses for cache and memory.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+To handle any possible pattern of calls and returns the number of register windows would have to be unbounded.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Cache memory is a much faster memory than the register file.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The cache is capable of handling global as well as local variables.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+With simple, one cycle instructions, there is little or no need for microcode.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+When using graph coloring, nodes that share the same color cannot be assigned to the same register.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Almost all RISC instructions use simple register addressing.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+RISC processors are more responsive to interrupts because interrupts are checked between rather elementary operations.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Unrolling can improve performance by increasing instruction parallelism by improving pipeline performance.
+(T/F)
+#END_CARD#
+B 
+#END_TERM#
+_________ determines the control and pipeline organization.
+A. Calculation
+B. Execution sequencing
+C. Operations performed
+D. Operands used
+#END_CARD#
+A 
+#END_TERM#
+The Patterson study examined the dynamic behavior of _________ programs, independent of the underlying architecture.
+A. HLL
+B. RISC
+C. CISC
+D. all of the above
+#END_CARD#
+C 
+#END_TERM#
+_________ is the fastest available storage device.
+A. Main memory
+B. Cache
+C. Register storage
+D. HLL
+#END_CARD#
+D 
+#END_TERM#
+The first commercial RISC product was _________.
+A. SPARC
+B. CISC
+C. VAX
+D. the Pyramid
+#END_CARD#
+A 
+#END_TERM#
+_________ instructions are used to position quantities in registers temporarily for computational operations.
+A. Load-and-store
+B. Window
+C. Complex
+D. Branch
+#END_CARD#
+D 
+#END_TERM#
+Which stage is required for load and store operations?
+A. I
+B. E
+C. D
+D. all of the above
+#END_CARD#
+B 
+#END_TERM#
+A ________ instruction can be used to account for data and branch delays.
+A. SUB
+B. NOOP
+C. JUMP
+D. all of the above
+#END_CARD#
+C 
+#END_TERM#
+The instruction location immediately following the delayed branch is referred to as the ________.
+A. delay load
+B. delay file
+C. delay slot
+D. delay register
+#END_CARD#
+A 
+#END_TERM#
+A tactic similar to the delayed branch is the _________, which can be used on LOAD instructions.
+A. delayed load
+B. delayed program
+C. delayed slot
+D. delayed register
+#END_CARD#
+C 
+#END_TERM#
+The MIPS R4000 uses ________ bits for all internal and external data paths and for addresses, registers, and the ALU.
+A. 16
+B. 32
+C. 64
+D. 128
+#END_CARD#
+D 
+#END_TERM#
+All MIPS R series processor instructions are encoded in a single ________ word format.
+A. 4-bit
+B. 8-bit
+C. 16-bit
+D. 32-bit
+#END_CARD#
+B 
+#END_TERM#
+A _________ architecture is one that makes use of more, and more fine-grained pipeline stages.
+A. parallel
+B. superpipelined
+C. superscalar
+D. hybrid
+#END_CARD#
+A 
+#END_TERM#
+The R4000 can have as many as _______ instructions in the pipeline at the same time.
+A. 8
+B. 10
+C. 5
+D. 3
+#END_CARD#
+C 
+#END_TERM#
+SPARC refers to an architecture defined by ________.
+A. Microsoft
+B. Apple
+C. Sun Microsystems
+D. IBM
+#END_CARD#
+A 
+#END_TERM#
+The R4000 pipeline stage where the instruction result is written back to the register file is the __________ stage.
+A. write back
+B. tag check
+C. data cache
+D. instruction execute
+#END_CARD#
+T 
+#END_TERM#
+The superscalar approach has now become the standard method for implementing high-performance microprocessors.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+In a traditional scalar organization there is a single pipelined functional unit for integer operations and one for floating-point operations.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+In the scalar organization there are multiple functional units, each of which is implemented as a pipeline and provides a degree of parallelism by virtue of its pipelined structure.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The superscalar approach depends on the ability to execute multiple instructions in parallel.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+True data dependency is also called flow dependency or read after write (RAW) dependency.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Resources include: memories, caches, buses, and register-file ports.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+Machine parallelism exists when instructions in a sequence are independent and thus can be executed in parallel by overlapping.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The simplest instruction issue policy is to issue instructions in the exact order that would be achieved by sequential execution (in-order issue) and to write results in that same order (in-order completion).
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+In-order completion requires more complex instruction issue logic than out-of-order completion.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The reorder buffer is temporary storage for results completed out of order that are then committed to the register file in program order.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Register renaming eliminates antidependencies and output dependencies.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+In effect, the Pentium 4 architecture implements a CISC instruction set architecture on a RISC microarchitecture.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The schedulers are responsible for retrieving micro-ops from the micro-op queues and dispatching these for execution.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+ARM architecture has yet to implement superscalar techniques in the instruction pipeline.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The Cortex-A8 targets a wide variety of mobile and consumer applications including mobile phones, set-top boxes, gaming consoles and automotives navigation/entertainment systems.
+(T/F)
+#END_CARD#
+D 
+#END_TERM#
+The superscalar approach can be used on __________ architecture.
+A. RISC
+B. CISC
+C. neither RISC nor CISC
+D. both RISC and CISC
+#END_CARD#
+C 
+#END_TERM#
+The essence of the ________ approach is the ability to execute instructions independently and concurrently in different pipelines.
+A. scalar
+B. branch
+C. superscalar
+D. flow dependency
+#END_CARD#
+D 
+#END_TERM#
+Which of the following is a fundamental limitation to parallelism with which the system must cope?
+A. procedural dependency
+B. resource conflicts
+C. antidependency
+D. all of the above
+#END_CARD#
+A 
+#END_TERM#
+The situation where the second instruction needs data produced by the first instruction to execute is referred to as __________.
+A. true data dependency
+B. output dependency
+C. procedural dependency
+D. antidependency
+#END_CARD#
+B 
+#END_TERM#
+The instructions following a branch have a _________ on the branch and cannot be executed until the branch is executed.
+A. resource dependency
+B. procedural dependency
+C. output dependency 
+D. true data dependency
+#END_CARD#
+A 
+#END_TERM#
+________ refers to the process of initiating instruction execution in the processor's functional units.
+A. Instruction issue
+B. In-order issue
+C. Out-of-order issue
+D. Procedural issue
+#END_CARD#
+C 
+#END_TERM#
+Instead of the first instruction producing a value that the second instruction uses, with ___________ the second instruction destroys a value that the first instruction uses.
+A. in-order issue
+B. resource conflict
+C. antidependency
+D. out-of-order completion
+#END_CARD#
+A 
+#END_TERM#
+________ indicates whether this micro-op is scheduled for execution, has been dispatched for execution, or has completed execution and is ready for retirement.
+A. State
+B. Memory address
+C. Micro-op
+D. Alias register
+#END_CARD#
+B 
+#END_TERM#
+__________ exists when instructions in a sequence are independent and thus can be executed in parallel by overlapping.
+A. Flow dependency
+B. Instruction-level parallelism
+C. Machine parallelism
+D. Instruction issue
+#END_CARD#
+A 
+#END_TERM#
+_________ is determined by the number of instructions that can be fetched and executed at the same time and by the speed and sophistication of the mechanisms that the processor uses to find independent instructions.
+A. Machine parallelism
+B. Instruction-level parallelism
+C. Output dependency
+D. Procedural dependency
+#END_CARD#
+D 
+#END_TERM#
+________ is a protocol used to issue instructions.
+A. Micro-ops
+B. Scalar
+C. SIMD
+D. Instruction issue policy
+#END_CARD#
+C 
+#END_TERM#
+________ is used in scalar RISC processors to improve the performance of instructions that require multiple cycles.
+A. In-order completion
+B. In-order issue
+C. Out-of-order completion
+D. Out-of-order issue
+#END_CARD#
+D 
+#END_TERM#
+Which of the following is a hardware technique that can be used in a superscalar processor to enhance performance?
+A. duplication of resources
+B. out-of-order issue
+C. renaming
+D. all of the above
+#END_CARD#
+B 
+#END_TERM#
+The ________ introduced a full-blown superscalar design with out-of-order execution.
+A. Pentium
+B. Pentium Pro
+C. 386
+D. 486
+#END_CARD#
+C 
+#END_TERM#
+Utilizing a branch target buffer (BTB), the _________ uses a dynamic branch prediction strategy based on the history of recent executions of branch instructions.
+A. 486
+B. Pentium
+C. Pentium 4
+D. Pentium Pro
+#END_CARD#
+T 
+#END_TERM#
+Symmetric multiprocessors (SMPs) are one of the earliest, and still the most common, example of parallel organization.
+#END_CARD#
+T 
+#END_TERM#
+The key to the design of a supercomputer or array processor is to recognize that the main task is to perform arithmetic operations on arrays or vectors of floating-point numbers.
+#END_CARD#
+T 
+#END_TERM#
+The term SMP refers to a computer hardware architecture and also to the operating system behavior that reflects that architecture.
+#END_CARD#
+T 
+#END_TERM#
+With multithreading the instruction stream is divided into several smaller streams, known as threads, such that the threads can be executed in parallel.
+#END_CARD#
+T 
+#END_TERM#
+An attractive feature of an SMP is that the existence of multiple processors is transparent to the user.
+#END_CARD#
+F 
+#END_TERM#
+The main drawback of the bus organization is reliability.
+#END_CARD#
+T 
+#END_TERM#
+An L1 cache that does not connect directly to the bus cannot engage in a snoopy protocol.
+#END_CARD#
+F 
+#END_TERM#
+With a write-update protocol there can be multiple readers but only one writer at a time.
+#END_CARD#
+F 
+#END_TERM#
+The function of switching applications and data resources over from a failed system to an alternative system in the cluster is referred to as failback.
+#END_CARD#
+T 
+#END_TERM#
+The most important measure of performance for a processor is the rate at which it executes instructions.
+#END_CARD#
+T 
+#END_TERM#
+An SMP operating system manages processor and other computer resources so that the user perceives a single operating system controlling system resources.
+#END_CARD#
+T 
+#END_TERM#
+The objective with NUMA is to maintain a transparent system wide memory while permitting multiple multiprocessor nodes, each with its own bus or other internal interconnect system.
+#END_CARD#
+T 
+#END_TERM#
+Software cache coherence schemes attempt to avoid the need for additional hardware circuitry and logic by relying on the compiler and operating system to deal with the problem.
+#END_CARD#
+T 
+#END_TERM#
+Both clusters and symmetric multiprocessors provide a configuration with multiple processors to support high-demand applications.
+#END_CARD#
+F 
+#END_TERM#
+Snoopy protocols are not suitable for a bus-based multiprocessor.
+#END_CARD#
+a 
+#END_TERM#
+_________ causes results issuing from one functional unit to be fed immediately into another functional unit and so on.
+a.Chaining
+b.Rollover
+c.Passive standby
+d.Pipelining
+#END_CARD#
+a 
+#END_TERM#
+With ________ instructions are simultaneously issued from multiple threads to the execution units of a superscalar processor.
+a.SMT
+b.single-threaded scalar
+c.coarse-grained multithreading
+d.chip multiprocessing
+#END_CARD#
+c 
+#END_TERM#
+The ________ contains control fields, such as the vector count, that determine how many elements in the vector registers are to be processed.
+a.vector-mask register
+b.vector-activity count
+c.vector-status register
+d.vector-instruction register
+#END_CARD#
+d 
+#END_TERM#
+Replicating the entire processor on a single chip with each processor handling separate threads is _________.
+a.interleaved multithreading
+b.blocked multithreading
+c.simultaneous multithreading
+d.chip multiprocessing
+#END_CARD#
+c 
+#END_TERM#
+A ________ is a dispatchable unit of work within a process that includes a processor context and its own data area for a stack.
+a.process
+b.process switch
+c.thread
+d.thread switch
+#END_CARD#
+b 
+#END_TERM#
+An operation that switches the processor from one process to another by saving all the process control data, register, and other information for the first and replacing them with the process information for the second is:
+a.resource ownership switch
+b.process switch
+c.thread switch
+d.cluster switch
+#END_CARD#
+c 
+#END_TERM#
+Hardware-based solutions are generally referred to as cache coherence _______.
+a.clusters
+b.streams
+c.protocols
+d.vectors
+#END_CARD#
+a 
+#END_TERM#
+A __________ is an instance of a program running on a computer.
+a.process
+b.process switch
+c.thread
+d.thread switch
+#END_CARD#
+b 
+#END_TERM#
+SMPs, clusters, and NUMA systems fit into the ________ category of computer systems.
+a.SISD
+b.MIMD
+c.SIMD
+d.MISD
+#END_CARD#
+a 
+#END_TERM#
+A _________ problem arises when multiple copies of the same data can exist in different caches simultaneously, and if processors are allowed to update their own copies freely, an inconsistent view of memory can result.
+a.cache coherence
+b.cluster
+c.failover
+d.failback
+#END_CARD#
+b 
+#END_TERM#
+With no multithreading, _________ is the simple pipeline found in traditional RISC and CISC machines.
+a.superscalar 
+b.single-threaded scalar
+c.blocked multithreaded scalar
+d.interleaved multithreaded scalar
+#END_CARD#
+c 
+#END_TERM#
+Uniprocessors fall into the _______ category of computer systems.
+a.MIMD
+b.SIMD
+c.SISD
+d.MISD
+#END_CARD#
+a 
+#END_TERM#
+Vector and array processors fall into the ________ category of computer systems.
+a.SIMD
+b.SISD
+c.MISD
+d.MIMD
+#END_CARD#
+d 
+#END_TERM#
+Which of the following is an approach to vector computation?
+a.pipelined ALU
+b.parallel ALU's
+c.parallel processors
+d.all of the above
+#END_CARD#
+b 
+#END_TERM#
+A taxonomy first introduced by _______ is still the most common way of categorizing systems with parallel processing capability.
+a.Randolph
+b.Flynn
+c.von Neuman
+d.Desai
+#END_CARD#
+T 
+#END_TERM#
+The organizational changes in processor design have primarily been focused on increasing instruction-level parallelism so that more work could be done in each clock cycle.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+With superscalar organization increased performance can be achieved by increasing the number of parallel pipelines.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The increasingly difficult engineering challenge related to processor logic is one of the reasons that an increasing fraction of the processor chip is devote to the simpler memory logic.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The demand on power requirements has not grown as chip density and clock frequency have risen.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+As chip transistor density has increased, the percentage of chip area devoted to memory has decreased.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The potential performance benefits of a multicore organization depend on the ability to effectively exploit the parallel resources available to the application.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Database management systems and database applications are one area in which multicore systems can be used effectively.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+Even if an individual application does not scale to take advantage of a large number of threads, it is still possible to gain from multicore architecture by running multiple instances of the application in parallel.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+With hybrid threading each major module is single threaded and the principal coordination involves synchronizing all the threads with a timeline thread.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The ARM11 MPCore is an example of the L1 cache being divided into instruction and data caches.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+An advantage of using a shared L2 cache on the chip is that data shared by multiple cores is not replicated at the shared cache level.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A potential advantage to having only dedicate L2 caches on the chip is that each core enjoys more rapid access to its private L2 cache.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+The thermal management unit monitors digital sensors for high-accuracy die temperature measurements.
+(T/F)
+#END_CARD#
+F 
+#END_TERM#
+The Advanced Programmable Interrupt controller (APIC) monitors thermal conditions and CPU activity and adjusts voltage levels and power consumption appropriately.
+(T/F)
+#END_CARD#
+T 
+#END_TERM#
+A multicore computer combines two or more processors on a single piece of silicon.
+(T/F)
+#END_CARD#
+A 
+#END_TERM#
+With _______, register banks are replicated so that multiple threads can share the use of pipeline resources.
+A. SMT
+B. pipelining
+C. scalar
+D. superscalar
+#END_CARD#
+D 
+#END_TERM#
+_________ is where individual instructions are executed through a pipeline of stages so that while one instruction is executing in one stage of the pipeline, another instruction is executing in another stage of the pipeline.
+A. Superscalar
+B. Scalar
+C. Pipelining
+D. Simultaneous multithreading
+#END_CARD#
+B 
+#END_TERM#
+_________ is when multiple pipelines are constructed by replicating execution resources, enabling parallel execution of instructions in parallel pipelines so long as hazards are avoided.
+A. Vectoring
+B. Superscalar
+C. Hybrid multithreading
+D. Pipelining
+#END_CARD#
+B 
+#END_TERM#
+One way to control power density is to use more of the chip area for ________.
+A. multicore
+B. cache memory
+C. silicon
+D. resistors
+#END_CARD#
+A 
+#END_TERM#
+Lotus Domino or Siebel CRM are examples of ___________ applications.
+A. threaded
+B. multi-process
+C. Java
+D. multi-instance
+#END_CARD#
+D 
+#END_TERM#
+Oracle database, SAP, and PeopleSoft are examples of ________ applications.
+A. Java
+B. multithreaded native
+C. multi-instance
+D. multi-process
+#END_CARD#
+C 
+#END_TERM#
+_______ applications that can benefit directly from multicore resources include application servers such as Sun's Java Application Server, BEA's Weblogic, IBM's Websphere, and the open-source Tomcat application server.
+A. Multi-instance
+B. Multi-process
+C. Java
+D. Threaded
+#END_CARD#
+A 
+#END_TERM#
+Putting rendering on one processor, AI on another, and physics on another is an example of _________ threading.
+A. coarse
+B. multi-instance
+C. fine-grained
+D. hybrid
+#END_CARD#
+B 
+#END_TERM#
+A loop that iterates over an array of data can be split up into a number of smaller parallel loops in individual threads that can be scheduled in parallel when using ________ threading.
+A. multi-process
+B. fine-grained
+C. hybrid
+D. coarse
+#END_CARD#
+D 
+#END_TERM#
+The _________ is an example of splitting off a separate, shared L3 cache, with dedicated L1 and L2 caches for each core processor.
+A. IBM 370
+B. ARM11 MPCore
+C. AMD Opteron
+D. Intel Core i7
+#END_CARD#
+C 
+#END_TERM#
+The ________ connects to the external bus, known as the Front Side Bus, which connects to main memory, I/O controllers, and other processor chips.
+A. L2
+B. APIC
+C. bus interface
+D. all of the above
+#END_CARD#
+B 
+#END_TERM#
+The Intel Core i7-990X, introduced in 2008, implements ______ x86 SMT processors, each with a dedicated L2 cache, and with a shared L3 cache.
+A. 2
+B. 4
+C. 6
+D. 8
+#END_CARD#
+B 
+#END_TERM#
+Processors are called ________.
+A. dies
+B. cores
+C. QPI
+D. interconnects
+#END_CARD#
+A 
+#END_TERM#
+The ________ feature enables moving dirty data from one CPU to another without writing to L2 and reading the data back in from external memory.
+A. migratory lines
+B. DDI
+C. VFP unit
+D. IPIs
+#END_CARD#
+C 
+#END_TERM#
+The ________ is responsible for maintaining coherency among L1 data caches.
+A. VFP unit
+B. distributed interrupt controller
+C. snoop control unit (SCU)
+D. watchdog
+#END_CARD#
+T 
+#END_TERM#
+A microprogram consists of a sequence of instructions in a microprogramming language.
+#END_CARD#
+F 
+#END_TERM#
+A microprogrammed control unit is a relatively complex logic circuit.
+#END_CARD#
+T 
+#END_TERM#
+Microprogramming became a popular technique for implementing the control unit of CISC processors.
+#END_CARD#
+F 
+#END_TERM#
+To implement a control unit as an interconnection of basic logic elements is a very simple task.
+#END_CARD#
+T 
+#END_TERM#
+A microprogram is midway between hardware and software.
+#END_CARD#
+F 
+#END_TERM#
+It is easier to design in hardware than in firmware.
+#END_CARD#
+T 
+#END_TERM#
+It is more difficult to write a firmware program than a software program.
+#END_CARD#
+T 
+#END_TERM#
+Reading a microinstruction from the control memory is the same as executing that microinstruction.
+#END_CARD#
+F 
+#END_TERM#
+The advantage of horizontal microinstructions is that they are more compact than vertical microinstructions, at the expense of a small additional amount of logic and time delay.
+#END_CARD#
+T 
+#END_TERM#
+The principal advantage of the use of microprogramming to implement a control unit is that it simplifies the design of the control unit.
+#END_CARD#
+T 
+#END_TERM#
+The principal disadvantage of a microprogrammed unit is that it will be somewhat slower than a hardwired unit of comparable technology.
+#END_CARD#
+T 
+#END_TERM#
+It is important to design compact, time-efficient techniques for microinstruction branching.
+#END_CARD#
+T 
+#END_TERM#
+The degree of packing relates to the degree of identification between a given control task and specific microinstruction bits.
+#END_CARD#
+F 
+#END_TERM#
+The PDP-11 is the first member of the LSI-11 family that was offered as a single board processor.
+#END_CARD#
+T 
+#END_TERM#
+The TI 8800 Software Development Board is a microprogrammable 32-bit computer card that fits into an IBM PC-compatible host computer.
+#END_CARD#
+A 
+#END_TERM#
+QN=1 The term microprogram was first coined by __________ in the early 1950s.
+a. M.V. Wilkes
+b. D. Siewiorek
+c. M. Sebern
+d. S. Tucker
+#END_CARD#
+C 
+#END_TERM#
+QN=2 The set of microinstructions is stored in the __________.
+a. control address register
+b. control buffer register
+c. control memory
+d. control word
+#END_CARD#
+B 
+#END_TERM#
+QN=3 The _________ contains the address of the next microinstruction to be read.
+a. control memory
+b. control address register
+c. control word
+d. control buffer register
+#END_CARD#
+A 
+#END_TERM#
+QN=4 When a microinstruction is read from the control memory it is transferred to a _________.
+a. control buffer register
+b. control memory
+c. control address register
+d. control unit
+#END_CARD#
+D 
+#END_TERM#
+QN=5 Which of the following is a control unit input?
+a. IR
+b. ALU flags
+c. clock
+d. all of the above
+#END_CARD#
+D 
+#END_TERM#
+QN=6 In executing a microprogram the address of the next microinstruction to be executed is in which of the following categories?
+a. determined by instruction register 
+b. branch
+c. next sequential address
+d. all of the above
+#END_CARD#
+C 
+#END_TERM#
+QN=7 The terms __________ relate to the relative width of microinstructions.
+a. packed/unpacked
+b. hard/soft
+c. horizontal/vertical
+d. direct/indirect
+#END_CARD#
+A 
+#END_TERM#
+QN=8 The terms _________ microprogramming are used to suggest the degree of closeness to the underlying control signals and hardware layout.
+a. hard/soft
+b. horizontal/vertical
+c. direct/indirect
+d. packed/unpacked
+#END_CARD#
+B 
+#END_TERM#
+QN=9 With _________ encoding one field is used to determine the interpretation of another field.
+a. resource
+b. indirect
+c. direct
+d. functional
+#END_CARD#
+D 
+#END_TERM#
+QN=10 Which of the following is a LSI-11 microinstruction?
+a. add word
+b. test word
+c. Jump
+d. all of the above
+#END_CARD#
+C 
+#END_TERM#
+QN=11 The standard IBM 3033 control memory consists of ________ words.
+a. 2K
+b. 8K
+c. 4K
+d. 16K
+#END_CARD#
+A 
+#END_TERM#
+QN=12 The _________ allows multiple levels of nested calls or interrupts and it can be used to support branching and looping.
+a. stack
+b. register
+c. counter
+d. firmware
+#END_CARD#
+B 
+#END_TERM#
+QN=13 The _________ is a 32-bit ALU with 64 registers that can be configured to operate as four 8-bit ALUs, two 16-bit ALUs, or a single 32-bit ALU.
+a. PDP-11
+b. 8832
+c. 3033
+d. 8818
+#END_CARD#
+A 
+#END_TERM#
+QN=14 _________ is a subfield that is used to indicate a conditional branch.
+a. ZERION
+b. S2-S0
+c. SELDR
+d. OSEL
+#END_CARD#
+C 
+#END_TERM#
+QN=15 A _________ is a combinatorial circuit that generates an address based on the microinstruction, the machine instruction, the microinstruction program counter, and an interrupt register.
+a. microsequencer
+b. vertical microinstruction
+c. translation array
+d. control word
+#END_CARD#
+T 
+#END_TERM#
+A cycle is made up of a sequence of micro-operations.
+#END_CARD#
+T 
+#END_TERM#
+One technique for implementing a control unit is referred to as hardwired implementation, in which the control unit is a combinatorial circuit.
+#END_CARD#
+F 
+#END_TERM#
+Knowing the machine instruction set does not play a part in knowing the functions that the processor must perform.
+#END_CARD#
+T 
+#END_TERM#
+The control unit controls the operation of the processor.
+#END_CARD#
+F 
+#END_TERM#
+The sequence of instruction cycles are always the same as the written sequence of instructions that make up the program.
+#END_CARD#
+T 
+#END_TERM#
+The execution of a program consists of the sequential execution of instructions.
+#END_CARD#
+F 
+#END_TERM#
+The "read word from memory" and "increment PC" actions cannot be used simultaneously because they will interfere with each other.
+#END_CARD#
+T 
+#END_TERM#
+Each micro-operation of the fetch cycle involves the movement of data into or out of a register.
+#END_CARD#
+T 
+#END_TERM#
+At the completion of the execute cycle a test is made to determine whether any enabled interrupts have occurred, and if they have, the interrupt cycle occurs.
+#END_CARD#
+F 
+#END_TERM#
+The execute cycle is simple and predictable.
+#END_CARD#
+T 
+#END_TERM#
+Each phase of the instruction cycle can be decomposed into a sequence of elementary micro-operations.
+#END_CARD#
+T 
+#END_TERM#
+For the control unit to perform its function it must have inputs that allow it to determine the state of the system and outputs that allow it to control the behavior of the system.
+#END_CARD#
+T 
+#END_TERM#
+The control unit is the engine that runs the entire computer.
+#END_CARD#
+T 
+#END_TERM#
+The use of common data paths simplifies the interconnection layout and the control of the processor.
+#END_CARD#
+F 
+#END_TERM#
+The number of machine cycles for an instruction depends on the number of times the processor must communicate with internal devices.
+#END_CARD#
+D 
+#END_TERM#
+QN=1 A single micro-operation generally involves which of the following?
+a. a transfer between registers
+b. a transfer between a register and an external bus
+c. a simple ALU operation
+d. all of the above
+#END_CARD#
+B 
+#END_TERM#
+QN=2 Each instruction executed during an instruction cycle is made up of shorter ______.
+a. executions 
+b. subcycles
+c. steps
+d. none of the above
+#END_CARD#
+A 
+#END_TERM#
+QN=3 __________ are the functional, or atomic, operations of a processor.
+a. Micro-operations
+b. Interrupts
+c. Subcycles
+d. All of the above
+#END_CARD#
+C 
+#END_TERM#
+QN=4 The _________ cycle occurs at the beginning of each instruction cycle and causes an instruction to be fetched from memory.
+a. execute
+b. indirect
+c. fetch
+d. interrupt
+#END_CARD#
+B 
+#END_TERM#
+QN=5 The _________ is connected to the address lines of the system bus.
+a. MBR
+b. MAR
+c. PC
+d. IR
+#END_CARD#
+C 
+#END_TERM#
+QN=6 The ________ is connected to the data lines of the system bus.
+a. MAR
+b. PC
+c. MBR
+d. IR
+#END_CARD#
+B 
+#END_TERM#
+QN=7 The ________ holds the address of the next instruction to be fetched.
+a. IR
+b. PC
+c. MAR
+d. MBR
+#END_CARD#
+D 
+#END_TERM#
+QN=8 The _________ holds the last instruction fetched.
+a. PC
+b. MBR
+c. MAR
+d. IR
+#END_CARD#
+C 
+#END_TERM#
+QN=9 The groupings of micro-operations must follow which rule?
+a. a sequence of events does not need to be followed
+b. use read to and write from the same register in one time unit
+c. conflicts must be avoided
+d. all of the above
+#END_CARD#
+A 
+#END_TERM#
+QN=10 The _______ designates the state of the processor in terms of which portion of the cycle it is in.
+a. ICC
+b. BSA
+c. ALE
+d. ISC
+#END_CARD#
+B 
+#END_TERM#
+QN=11 Machine cycles are defined to be equivalent to ________ accesses.
+a. flag
+b. bus
+c. clock
+d. path
+#END_CARD#
+D 
+#END_TERM#
+QN=12 The ________ portion of the control unit issues a repetitive sequence of pulses.
+a. instruction register
+b. flag
+c. control bus signals
+d. clock
+#END_CARD#
+C 
+#END_TERM#
+QN=13 The ________ pulse signals the start of each machine cycle from the control unit and alerts external circuits.
+a. AC 
+b. INSTR
+c. ALE
+d. OUT
+#END_CARD#
+D 
+#END_TERM#
+QN=14 Which of the following is an Intel 8085 external signal?
+a. CLK(OUT)
+b. read control
+c. HOLDA
+d. all of the above
+#END_CARD#
+A 
+#END_TERM#
+QN=15 The __________ module handles multiple levels of interrupt signals.
+a. interrupt control
+b. incrementer address latch
+c. serial I/O control
+d. decrementer address latch
+#END_CARD#
